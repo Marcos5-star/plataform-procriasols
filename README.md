@@ -4,6 +4,13 @@ Este projeto tem como objetivo desenvolver uma plataforma web que ajuda e ensina
 
 Atualmente, o projeto encontra-se na fase de prototipagem de interfaces.
 
+## 🎯 Público-Alvo do produto
+- Empreendedor Iniciante.
+- Jovens Criativos.
+- Professores e Escolas.
+- ONG's, Projetos Sociais e Comunidades.
+
+
 ## 📌 Status do Projeto
 🚧 Em desenvolvimento (somente protótipos de baixa fidelidade disponíveis até o momento).
 
