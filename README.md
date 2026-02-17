@@ -22,7 +22,7 @@ Este projeto tem como objetivo desenvolver uma plataforma digital que ajuda e en
 - Kanban como metodologia ágil
 - Inkscape (design dos protótipos)
 
-## 📌 Observação
+## 🔍 Observação
 Este repositório será atualizado com novas versões à medida que o desenvolvimento do sistema avançar.
 
 # ⚙️ Versão do projeto
