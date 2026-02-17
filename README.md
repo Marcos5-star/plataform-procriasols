@@ -8,7 +8,7 @@ Este projeto tem como objetivo desenvolver uma plataforma digital que ajuda e en
 ## 🎯 Público-Alvo do produto
 - Empreendedor iniciante.
 
-## 📌 Status do projeto
+## 🟢 Status do projeto
 🚧 Em desenvolvimento (somente protótipos de baixa fidelidade disponíveis até o momento).
 
 ## 📁 Estrutura do repositório
