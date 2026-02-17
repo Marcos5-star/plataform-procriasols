@@ -1,14 +1,14 @@
 # Plataforma de Apoio ao Empreendedor
-Este projeto tem como objetivo desenvolver uma plataforma web que ajuda e ensina empreendedores a criar ideias, validá-las e transformá-las em negócios reais.  
+Este projeto tem como objetivo desenvolver uma plataforma digital que ajuda e ensina empreendedores a criar negócios lucrativos de forma mais eficiente, validá-las e transformá-las em negócios reais.  
 
 ## 🎯 Público-Alvo do produto
 - Empreendedor Iniciante.
 
-## 📌 Status do Projeto
+## 📌 Status do projeto
 🚧 Em desenvolvimento (somente protótipos de baixa fidelidade disponíveis até o momento).
 
-## 📁 Estrutura do Repositório
-- `/docs`: Documentação do TCC.
+## 📁 Estrutura do repositório
+- `/docs`: Documentação.
 - `/prototipos`: Telas e wireframes do sistema.
 
 ## 🛠 Tecnologias previstas
