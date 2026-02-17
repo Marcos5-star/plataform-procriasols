@@ -25,5 +25,5 @@ Este projeto tem como objetivo desenvolver uma plataforma digital que ajuda e en
 ## 🔍 Observação
 Este repositório será atualizado com novas versões à medida que o desenvolvimento do sistema avançar.
 
-# ⚙️ Versão do projeto
+## ⚙️ Versão do projeto
 - V.1.0.
