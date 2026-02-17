@@ -1,6 +1,5 @@
 # Plataforma de Apoio ao Empreendedor
 Este projeto tem como objetivo desenvolver uma plataforma web que ajuda e ensina empreendedores a criar ideias, validá-las e transformá-las em negócios reais.  
-Atualmente, o projeto encontra-se na fase de prototipagem de interfaces.
 
 ## 🎯 Público-Alvo do produto
 - Empreendedor Iniciante.
