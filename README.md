@@ -1,8 +1,12 @@
 # Plataforma de Apoio ao Empreendedor
 Este projeto tem como objetivo desenvolver uma plataforma digital que ajuda e ensina empreendedores a criarem negócios lucrativos de forma mais eficiente, validá-las e transformá-las em negócios reais.  
 
+# Nome da solução e significado
+- ProcriasolsGC.
+- Processo Criativo de Soluções Gerador de Capital.
+  
 ## 🎯 Público-Alvo do produto
-- Empreendedor Iniciante.
+- Empreendedor iniciante.
 
 ## 📌 Status do projeto
 🚧 Em desenvolvimento (somente protótipos de baixa fidelidade disponíveis até o momento).
